@@ -16,6 +16,7 @@ mvn clean compile
 
 ## Artifact URL
 [Internal](http://192.168.89.106:9095/repository/internal/)
-[Snapshot](http://192.168.89.106:9095/repository/snapshot/)
+
+[Snapshot](http://192.168.89.106:9095/repository/snapshots/)
 
 Now run the project as Java Project from your eclipse with the Main Class => EasyRuleTestSample.java
