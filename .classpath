@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/g2gusr/Desktop/Vijay Leo/easy-rules-core-3.2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/g2gusr/Desktop/Vijay Leo/easy-rules-mvel-3.2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/g2gusr/Desktop/Vijay Leo/easy-rules-support-3.2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/g2gusr/Desktop/Vijay Leo/jackson-dataformat-yaml-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/g2gusr/Desktop/Vijay Leo/mvel2-2.4.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/g2gusr/Desktop/Vijay Leo/snakeyaml-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/g2gusr/Desktop/Vijay Leo/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/g2gusr/Desktop/Vijay Leo/slf4j-api-1.7.25.jar" sourcepath="C:/Users/g2gusr/AppData/Local/Temp/.org.sf.feeling.decompiler1542701976931/source/slf4j-api-1.7.25-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/g2gusr/Desktop/Vijay Leo/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
